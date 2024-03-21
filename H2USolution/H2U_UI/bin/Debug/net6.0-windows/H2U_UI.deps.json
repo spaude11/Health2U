@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "H2U_UI/1.0.0": {
+        "dependencies": {
+          "H2ULibrary": "1.0.0"
+        },
+        "runtime": {
+          "H2U_UI.dll": {}
+        }
+      },
+      "H2ULibrary/1.0.0": {
+        "runtime": {
+          "H2ULibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H2U_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "H2ULibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
